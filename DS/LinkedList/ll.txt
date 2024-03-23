@@ -1,0 +1,20 @@
+// Linked List is an data structure which consist of nodes. The nodes having the data field and the address for the next node.
+
+// Types of Linked List:
+
+// 1. Singly LL
+// 2. Doubly LL
+// 3. Circular LL
+
+// 1. Singly LL : In a singly linked list, each node contains a reference to the next node in the sequence. Traversing a singly linked list is done in a forward direction.
+
+// 2. Doubly LL: In a doubly linked list, each node contains references to both the next and previous nodes. This allows for traversal in both forward and backward directions, but it requires additional memory for the backward reference.
+
+// 3. Circular LL: In a circular linked list, the last node points back to the head node, creating a circular structure. It can be either singly or doubly linked.
+
+// Operations on LL: 
+
+// 1. Insertion
+// 2. Deletion
+// 3. Searching
+
